@@ -8,8 +8,11 @@ class ChattyStudent < Student
   
   def raise_hand
     super
-    10.times{print "Pick me!"}
-  end
+    super
+    super
+    super
+    super
+  
   
   
 end
